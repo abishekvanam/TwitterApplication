@@ -1,0 +1,10 @@
+1;raj;123;xyz@gmail.com
+2;Abhivardhan;pwd2;asd@gmail.com
+3;pranadeep;pwd3;qwerty@gmail.com
+4;vishal;pwd4;lkj@gmail.com
+5;padma;pwd5;zxc@gmail.com
+6;susmitha;eudrite;dfgh@gmail.com
+7;revanth;pwd7;fjlsj@gmail.com
+8;haritha;pwd8;njv@gmail.com
+9;abishek;pwd9;pep@gmail.com
+10;ashok;ashok;ash@123

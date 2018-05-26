@@ -1,0 +1,2 @@
+This application has 3 modules- client,server and db.
+All the remaining files are test files.

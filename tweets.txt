@@ -1,0 +1,7 @@
+1;1;0;new to twitter
+1;5;0;my first tweet
+2;1;0;Sunny day
+1;4;0;my first post
+3;1;0;srh vs csk
+1;3;0;hello all :)
+2;5;0;International retirement of ABD :(
